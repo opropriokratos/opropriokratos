@@ -13,6 +13,10 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -21,7 +25,7 @@
  > 
 > 🏆 548 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
@@ -115,7 +119,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 13:23:23 UTC
+ Last Updated on 31/08/2026 13:53:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
