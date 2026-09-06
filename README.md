@@ -23,7 +23,7 @@
 
 > 📦 40.9 kB Used in GitHub's Storage 
  > 
-> 🏆 568 Contributions in the Year 2026
+> 🏆 571 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -34,21 +34,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                190 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-🌆 Daytime                266 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
-🌃 Evening                240 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
-🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+🌞 Morning                190 commits         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+🌆 Daytime                268 commits         █████████░░░░░░░░░░░░░░░░   37.02 % 
+🌃 Evening                241 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
+🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Wednesday                173 commits         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Thursday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Friday                   106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Sunday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Monday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Tuesday                  126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Wednesday                173 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Thursday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Friday                   106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Sunday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 
@@ -58,46 +58,46 @@ Sunday                   52 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
-TypeScript               5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-HTML                     3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Other                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Markdown                 6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.27 % 
+TypeScript               2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+HTML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Text                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 6 mins       ████████████████████████░   96.52 % 
-Antigravity CLI          52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Claude Code              17 hrs 17 mins      ████████████████████████░   95.63 % 
+Antigravity CLI          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🐱‍💻 Projects: 
-fabrica-agil             7 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-fiber-alert              6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-crm-geladao              3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-linkedin                 3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-book-to-skill            2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+fabrica-agil             4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+crm-geladao              3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+linkedin                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+fiber-alert              2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+book-to-skill            2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 
 💻 Operating System: 
-Windows                  24 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 58 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 4 mins (100.0%)
 
-✍️ 14,650 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,773 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,043,199 Input Tokens, 813,145 Output Tokens
+🔤 5,503,182 Input Tokens, 609,751 Output Tokens
 
-💵 $94.16 Estimated AI Cost This Week
+💵 $60.66 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 332 AI Prompts
+🧠 56 AI Sessions, 257 AI Prompts
 
-Sonnet                   10,647 lines        ██████████████████░░░░░░░   71.64 % 
-Sensenova                4,214 lines         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Sonnet                   8,386 lines         █████████████████████░░░░   84.46 % 
+Sensenova                1,543 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,652 characters per prompt
+📚 Verbose Prompter — average 1,572 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -117,7 +117,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 03:08:56 UTC
+ Last Updated on 06/09/2026 03:08:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
