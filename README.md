@@ -13,9 +13,9 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
 
@@ -58,48 +58,48 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.52 % 
-TypeScript               3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-SQL                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Other                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown                 2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
+TypeScript               2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Other                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 6 mins       █████████████████████░░░░   83.69 % 
-Antigravity CLI          2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Antigravity IDE          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Claude Code              5 hrs 48 mins       ███████████████████░░░░░░   76.11 % 
+Antigravity CLI          1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🐱‍💻 Projects: 
-crm-geladao              6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.75 % 
-fabrica-agil             3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-fiber-alert              2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-linkedin                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-scratch                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+fabrica-agil             2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
+fiber-alert              1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+void-hunter              1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+crm-geladao              1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+linkedin                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 💻 Operating System: 
-Windows                  13 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 38 mins (100.0%)
 
-✍️ 1,987 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,000 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,328,615 Input Tokens, 331,440 Output Tokens
+🔤 742,689 Input Tokens, 129,736 Output Tokens
 
-💵 $29.35 Estimated AI Cost This Week
+💵 $10.57 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 218 AI Prompts
+🧠 36 AI Sessions, 152 AI Prompts
 
-Sonnet                   2,014 lines         █████████████████████████   100.00 % 
-Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,000 lines         █████████████████████████   100.00 % 
 Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 687 characters per prompt
+📄 Detailed Prompter — average 743 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -119,7 +119,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 03:35:20 UTC
+ Last Updated on 15/09/2026 03:36:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
