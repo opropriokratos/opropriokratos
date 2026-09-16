@@ -17,7 +17,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -58,49 +58,48 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
-TypeScript               2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Other                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Markdown                 2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.92 % 
+TypeScript               1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Other                    57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 48 mins       ███████████████████░░░░░░   76.11 % 
-Antigravity CLI          1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Claude Code              5 hrs 1 min         ████████████████████░░░░░   80.34 % 
+Antigravity CLI          1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
 
 🐱‍💻 Projects: 
-fabrica-agil             2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
-fiber-alert              1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-void-hunter              1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-crm-geladao              1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-linkedin                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+fabrica-agil             2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
+fiber-alert              1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+void-hunter              1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+linkedin                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+scratch                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 38 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 15 mins (100.0%)
 
-✍️ 1,000 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 986 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 742,689 Input Tokens, 129,736 Output Tokens
+🔤 653,980 Input Tokens, 118,145 Output Tokens
 
-💵 $10.57 Estimated AI Cost This Week
+💵 $9.63 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 152 AI Prompts
+🧠 27 AI Sessions, 125 AI Prompts
 
-Sonnet                   1,000 lines         █████████████████████████   100.00 % 
+Sonnet                   986 lines           █████████████████████████   100.00 % 
 Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 743 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 786 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -119,7 +118,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 03:36:10 UTC
+ Last Updated on 16/09/2026 03:32:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
