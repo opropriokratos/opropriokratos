@@ -13,9 +13,9 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,47 +58,47 @@ Sunday                   71 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-Other                    3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.22 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-SQL                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Markdown                 4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.88 % 
+Other                    3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.45 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 43 mins       █████████████████░░░░░░░░   68.90 % 
-Antigravity CLI          3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.10 % 
+Claude Code              7 hrs 39 mins       ██████████████████░░░░░░░   71.92 % 
+Antigravity CLI          2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
 
 🐱‍💻 Projects: 
-root-kratos              3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
-fabrica-agil             3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.69 % 
-void-hunter              1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-fiber-alert              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-linkedin                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+root-kratos              3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
+fabrica-agil             3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+fiber-alert              2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+void-hunter              1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+linkedin                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Windows                  9 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 38 mins (100.0%)
 
-✍️ 1,911 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,935 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,571,910 Input Tokens, 231,580 Output Tokens
+🔤 1,890,296 Input Tokens, 263,204 Output Tokens
 
-💵 $18.79 Estimated AI Cost This Week
+💵 $23.41 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 191 AI Prompts
+🧠 32 AI Sessions, 211 AI Prompts
 
-Sonnet                   1,911 lines         █████████████████████████   100.00 % 
+Sonnet                   1,935 lines         █████████████████████████   100.00 % 
 Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,185 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,133 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -117,7 +117,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 03:37:27 UTC
+ Last Updated on 21/09/2026 03:32:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
