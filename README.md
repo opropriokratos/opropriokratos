@@ -13,9 +13,9 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,45 +58,45 @@ Sunday                   71 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
-Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.23 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
+Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+TypeScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 54 mins       ██████████████████░░░░░░░   72.71 % 
-Antigravity CLI          2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Claude Code              7 hrs 8 mins        ██████████████████░░░░░░░   73.37 % 
+Antigravity CLI          2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
 
 🐱‍💻 Projects: 
-root-kratos              3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
-fabrica-agil             3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.96 % 
-fiber-alert              2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-book-to-skill            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+root-kratos              3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
+fabrica-agil             3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+fiber-alert              3 hrs               ████████░░░░░░░░░░░░░░░░░   30.87 % 
+book-to-skill            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 antigravity-cli          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 44 mins (100.0%)
 
 ✍️ 1,680 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,802,239 Input Tokens, 253,794 Output Tokens
+🔤 1,880,218 Input Tokens, 261,570 Output Tokens
 
-💵 $22.80 Estimated AI Cost This Week
+💵 $23.25 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 185 AI Prompts
+🧠 31 AI Sessions, 194 AI Prompts
 
 Sonnet                   1,685 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,063 characters per prompt
+📄 Detailed Prompter — average 1,037 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -116,7 +116,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 03:31:20 UTC
+ Last Updated on 23/09/2026 03:31:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
