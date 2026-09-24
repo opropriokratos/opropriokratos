@@ -58,46 +58,46 @@ Sunday                   71 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
-TypeScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Other                    2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
+TypeScript               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 8 mins        ██████████████████░░░░░░░   73.37 % 
-Antigravity CLI          2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Claude Code              5 hrs 24 mins       ██████████████████████░░░   86.05 % 
+Antigravity CLI          52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 
 🐱‍💻 Projects: 
-root-kratos              3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
-fabrica-agil             3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
-fiber-alert              3 hrs               ████████░░░░░░░░░░░░░░░░░   30.87 % 
-book-to-skill            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-antigravity-cli          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+fabrica-agil             3 hrs 9 mins        █████████████░░░░░░░░░░░░   50.34 % 
+fiber-alert              3 hrs               ████████████░░░░░░░░░░░░░   47.81 % 
+root-kratos              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+book-to-skill            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+antigravity-cli          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 44 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 17 mins (100.0%)
 
-✍️ 1,680 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,316 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,880,218 Input Tokens, 261,570 Output Tokens
+🔤 1,454,081 Input Tokens, 221,641 Output Tokens
 
-💵 $23.25 Estimated AI Cost This Week
+💵 $18.27 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 194 AI Prompts
+🧠 26 AI Sessions, 112 AI Prompts
 
-Sonnet                   1,685 lines         █████████████████████████   100.00 % 
+Sonnet                   1,321 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,037 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,169 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -116,7 +116,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 03:31:39 UTC
+ Last Updated on 24/09/2026 03:21:37 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
