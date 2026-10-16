@@ -21,9 +21,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 45.0 kB Used in GitHub's Storage 
+> 📦 45.1 kB Used in GitHub's Storage 
  > 
-> 🏆 693 Contributions in the Year 2026
+> 🏆 696 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -34,21 +34,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                248 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-🌆 Daytime                382 commits         █████████░░░░░░░░░░░░░░░░   36.94 % 
-🌃 Evening                360 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌞 Morning                249 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌆 Daytime                385 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌃 Evening                366 commits         █████████░░░░░░░░░░░░░░░░   35.06 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                239 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Friday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Wednesday                240 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Thursday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Saturday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 
 
@@ -58,48 +58,48 @@ Sunday                   86 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 13 hrs 5 mins       █████████████░░░░░░░░░░░░   51.97 % 
-TypeScript               4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-SQL                      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Other                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Python                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 11 hrs 20 mins      ██████████████░░░░░░░░░░░   54.34 % 
+TypeScript               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+JSON                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 58 mins      ██████████████████░░░░░░░   71.37 % 
-Antigravity CLI          7 hrs               ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Antigravity              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Claude Code              14 hrs 48 mins      ██████████████████░░░░░░░   70.90 % 
+Antigravity CLI          5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Antigravity              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-crm-geladao              9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-NORTPRIMECRED            7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
-fiber-alert              4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-book-to-skill            1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-olt-check                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+NORTPRIMECRED            7 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
+crm-geladao              5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+fiber-alert              4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+book-to-skill            1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+olt-check                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Windows                  25 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 20 hrs 52 mins (100.0%)
 
-✍️ 9,473 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,889 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,972,598 Input Tokens, 2,866,637 Output Tokens
+🔤 20,503,649 Input Tokens, 2,424,188 Output Tokens
 
-💵 $195.78 Estimated AI Cost This Week
+💵 $169.42 Estimated AI Cost This Week
 
-🧠 103 AI Sessions, 615 AI Prompts
+🧠 81 AI Sessions, 510 AI Prompts
 
-Opus                     6,906 lines         ██████████████████░░░░░░░   72.89 % 
-Gemini                   2,568 lines         ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Opus                     6,027 lines         ███████████████████░░░░░░   76.40 % 
+Gemini                   1,862 lines         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,705 characters per prompt
+📚 Verbose Prompter — average 1,964 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -120,7 +120,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 03:24:18 UTC
+ Last Updated on 16/10/2026 03:19:58 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
