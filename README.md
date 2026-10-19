@@ -58,48 +58,48 @@ Sunday                   86 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 8 hrs 37 mins       █████████████░░░░░░░░░░░░   51.00 % 
-TypeScript               2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Markdown                 8 hrs 19 mins       █████████████░░░░░░░░░░░░   50.71 % 
+TypeScript               2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 57 mins      ██████████████████░░░░░░░   70.81 % 
-Antigravity CLI          4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Antigravity              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Claude Code              11 hrs 42 mins      ██████████████████░░░░░░░   71.23 % 
+Antigravity CLI          4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Antigravity              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🐱‍💻 Projects: 
-NORTPRIMECRED            10 hrs 53 mins      ████████████████░░░░░░░░░   64.43 % 
-crm-geladao              2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-fabrica-agil             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-book-to-skill            1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-olt-check                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+NORTPRIMECRED            10 hrs 53 mins      █████████████████░░░░░░░░   66.26 % 
+crm-geladao              2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+fabrica-agil             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+book-to-skill            1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+olt-check                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Windows                  16 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 53 mins (100.0%)
+⏱ AI Coding Time: 16 hrs 25 mins (100.0%)
 
-✍️ 7,148 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,022 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 15,988,077 Input Tokens, 1,768,368 Output Tokens
+🔤 15,382,840 Input Tokens, 1,653,381 Output Tokens
 
-💵 $133.28 Estimated AI Cost This Week
+💵 $129.24 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 483 AI Prompts
+🧠 51 AI Sessions, 469 AI Prompts
 
-Opus                     5,977 lines         █████████████████████░░░░   83.59 % 
-Gemini                   1,173 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Opus                     5,851 lines         █████████████████████░░░░   83.30 % 
+Gemini                   1,173 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,822 characters per prompt
+📚 Verbose Prompter — average 1,863 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -120,7 +120,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 03:13:23 UTC
+ Last Updated on 19/10/2026 03:26:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
