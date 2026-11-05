@@ -13,17 +13,17 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 47.3 kB Used in GitHub's Storage 
+> 📦 47.4 kB Used in GitHub's Storage 
  > 
-> 🏆 910 Contributions in the Year 2026
+> 🏆 914 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,6 +31,82 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                413 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌆 Daytime                577 commits         █████████░░░░░░░░░░░░░░░░   34.99 % 
+🌃 Evening                555 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
+🌙 Night                  104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Wednesday                337 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Thursday                 234 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Friday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Saturday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Sunday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Markdown                 19 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.71 % 
+Other                    9 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Text                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+TypeScript               4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+SQL                      4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+
+🔥 Editors: 
+Claude Code              29 hrs 20 mins      ███████████████░░░░░░░░░░   60.76 % 
+Codex CLI                15 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Antigravity CLI          3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Codex Exec               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Antigravity              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🐱‍💻 Projects: 
+NORTPRIMECRED            45 hrs 49 mins      ████████████████████████░   94.88 % 
+olt-check                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+book-to-skill            31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+linkedin                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+fiber-alert              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+💻 Operating System: 
+Windows                  48 hrs 17 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 48 hrs 17 mins (100.0%)
+
+✍️ 5,521 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 18,996,465 Input Tokens, 2,264,802 Output Tokens
+
+💵 $223.13 Estimated AI Cost This Week
+
+🧠 153 AI Sessions, 774 AI Prompts
+
+Opus                     5,608 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,321 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -48,7 +124,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2026 04:59:20 UTC
+ Last Updated on 05/11/2026 05:21:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
