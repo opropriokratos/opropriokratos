@@ -13,9 +13,9 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,51 +58,50 @@ Sunday                   181 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 20 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   41.06 % 
-Other                    8 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Text                     7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-TypeScript               6 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-SQL                      4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Markdown                 19 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   41.99 % 
+Text                     7 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+TypeScript               6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+SQL                      5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Other                    4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 37 mins      ████████████████░░░░░░░░░   64.29 % 
-Codex CLI                15 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   30.26 % 
-Antigravity CLI          2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude Code              33 hrs 41 mins      ██████████████████░░░░░░░   72.49 % 
+Codex CLI                9 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Antigravity CLI          2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-NORTPRIMECRED            49 hrs 15 mins      ████████████████████████░   97.09 % 
-olt-check                34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-fiber-alert              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-linkedin                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-book-to-skill            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+NORTPRIMECRED            45 hrs 10 mins      ████████████████████████░   97.29 % 
+olt-check                36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+fiber-alert              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+book-to-skill            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+ref                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  50 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 hrs 44 mins (100.0%)
+⏱ AI Coding Time: 46 hrs 26 mins (100.0%)
 
-✍️ 7,443 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,705 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 17,433,872 Input Tokens, 2,155,491 Output Tokens
+🔤 18,658,573 Input Tokens, 2,117,727 Output Tokens
 
-💵 $219.07 Estimated AI Cost This Week
+💵 $231.13 Estimated AI Cost This Week
 
-🧠 125 AI Sessions, 680 AI Prompts
+🧠 104 AI Sessions, 619 AI Prompts
 
-Opus                     7,533 lines         █████████████████████████   100.00 % 
+Opus                     8,121 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,210 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,231 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -123,7 +122,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 04:41:05 UTC
+ Last Updated on 09/11/2026 04:51:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
