@@ -13,9 +13,9 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-326%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,60 +58,59 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 15 hrs 19 mins      ████████████░░░░░░░░░░░░░   46.03 % 
-Other                    5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Text                     3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-TypeScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Python                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Markdown                 15 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.11 % 
+Other                    5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Text                     3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+TypeScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 29 mins      ████████████████████░░░░░   79.52 % 
-Antigravity CLI          6 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Claude Code              26 hrs 11 mins      ████████████████████░░░░░   80.74 % 
+Antigravity CLI          6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
 
 🐱‍💻 Projects: 
-NORTPRIMECRED            13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.31 % 
-root-kratos              8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-fiber-alert              4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-olt-check                4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-book-to-skill            1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+root-kratos              11 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.28 % 
+NORTPRIMECRED            10 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   33.34 % 
+fiber-alert              5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+olt-check                2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+book-to-skill            1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Windows                  33 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 18 mins (100.0%)
+⏱ AI Coding Time: 32 hrs 26 mins (100.0%)
 
-✍️ 10,754 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,253 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,015,457 Input Tokens, 1,992,713 Output Tokens
+🔤 13,895,645 Input Tokens, 1,923,504 Output Tokens
 
-💵 $164.62 Estimated AI Cost This Week
+💵 $157.18 Estimated AI Cost This Week
 
-🧠 178 AI Sessions, 958 AI Prompts
+🧠 159 AI Sessions, 888 AI Prompts
 
-Opus                     11,021 lines        █████████████████████████   100.00 % 
+Opus                     11,562 lines        █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,637 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 1,687 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ███████████████░░░░░░░░░░   61.54 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               8 repos             ██████████████░░░░░░░░░░░   57.14 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -121,7 +120,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 05:52:57 UTC
+ Last Updated on 21/11/2026 05:48:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
