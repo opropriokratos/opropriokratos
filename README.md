@@ -13,9 +13,9 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,47 +58,47 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 15 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.11 % 
-Other                    5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Text                     3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-TypeScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 13 hrs 49 mins      █████████████░░░░░░░░░░░░   51.03 % 
+Text                     3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Other                    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+TypeScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+JavaScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 11 mins      ████████████████████░░░░░   80.74 % 
-Antigravity CLI          6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Claude Code              23 hrs 35 mins      ██████████████████████░░░   87.05 % 
+Antigravity CLI          3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 
 🐱‍💻 Projects: 
-root-kratos              11 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.28 % 
-NORTPRIMECRED            10 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   33.34 % 
-fiber-alert              5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-olt-check                2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-book-to-skill            1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+root-kratos              11 hrs 26 mins      ███████████░░░░░░░░░░░░░░   42.22 % 
+NORTPRIMECRED            7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+fiber-alert              5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+olt-check                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+book-to-skill            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Windows                  32 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 26 mins (100.0%)
+⏱ AI Coding Time: 27 hrs 6 mins (100.0%)
 
-✍️ 11,253 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,488 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,895,645 Input Tokens, 1,923,504 Output Tokens
+🔤 11,573,715 Input Tokens, 1,717,674 Output Tokens
 
-💵 $157.18 Estimated AI Cost This Week
+💵 $143.04 Estimated AI Cost This Week
 
-🧠 159 AI Sessions, 888 AI Prompts
+🧠 103 AI Sessions, 664 AI Prompts
 
-Opus                     11,562 lines        █████████████████████████   100.00 % 
+Opus                     10,798 lines        █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,687 characters per prompt
+📄 Detailed Prompter — average 1,315 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -120,7 +120,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 05:48:11 UTC
+ Last Updated on 22/11/2026 05:19:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
