@@ -58,47 +58,47 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 13 hrs 49 mins      █████████████░░░░░░░░░░░░   51.03 % 
-Text                     3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Other                    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-TypeScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-JavaScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Markdown                 12 hrs 16 mins      █████████████░░░░░░░░░░░░   52.22 % 
+Text                     3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+TypeScript               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 35 mins      ██████████████████████░░░   87.05 % 
-Antigravity CLI          3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Claude Code              20 hrs 33 mins      ██████████████████████░░░   87.41 % 
+Antigravity CLI          2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 
 🐱‍💻 Projects: 
-root-kratos              11 hrs 26 mins      ███████████░░░░░░░░░░░░░░   42.22 % 
-NORTPRIMECRED            7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-fiber-alert              5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-olt-check                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-book-to-skill            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+root-kratos              11 hrs 26 mins      ████████████░░░░░░░░░░░░░   48.68 % 
+fiber-alert              5 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+NORTPRIMECRED            4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+olt-check                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+book-to-skill            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Operating System: 
-Windows                  27 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  23 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 6 mins (100.0%)
+⏱ AI Coding Time: 23 hrs 30 mins (100.0%)
 
-✍️ 10,488 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,171 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,573,715 Input Tokens, 1,717,674 Output Tokens
+🔤 9,637,230 Input Tokens, 1,414,719 Output Tokens
 
-💵 $143.04 Estimated AI Cost This Week
+💵 $121.29 Estimated AI Cost This Week
 
-🧠 103 AI Sessions, 664 AI Prompts
+🧠 90 AI Sessions, 565 AI Prompts
 
-Opus                     10,798 lines        █████████████████████████   100.00 % 
+Opus                     9,482 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,315 characters per prompt
+📄 Detailed Prompter — average 1,372 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -120,7 +120,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 05:19:08 UTC
+ Last Updated on 23/11/2026 05:57:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
