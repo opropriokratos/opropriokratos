@@ -13,15 +13,15 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 74.3 kB Used in GitHub's Storage 
+> 📦 74.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,064 Contributions in the Year 2026
  > 
@@ -58,48 +58,48 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 7 hrs 13 mins       █████████████░░░░░░░░░░░░   52.25 % 
-Other                    2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Text                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Markdown                 7 hrs 34 mins       █████████████░░░░░░░░░░░░   50.91 % 
+JavaScript               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Other                    1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Text                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+PowerShell               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 30 mins      █████████████████████░░░░   83.17 % 
-Antigravity CLI          2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Claude Code              12 hrs 48 mins      ██████████████████████░░░   86.05 % 
+Antigravity CLI          2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 
 🐱‍💻 Projects: 
-root-kratos              8 hrs 19 mins       ███████████████░░░░░░░░░░   60.18 % 
-NORTPRIMECRED            2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-fiber-alert              1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-prospeccao               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-olt-check                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+root-kratos              4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+book-to-skill            4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+NORTPRIMECRED            2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+fiber-alert              1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+prospeccao               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Windows                  13 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 49 mins (100.0%)
+⏱ AI Coding Time: 14 hrs 53 mins (100.0%)
 
-✍️ 2,934 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,030 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,257,379 Input Tokens, 696,271 Output Tokens
+🔤 5,096,730 Input Tokens, 767,844 Output Tokens
 
-💵 $52.38 Estimated AI Cost This Week
+💵 $59.98 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 335 AI Prompts
+🧠 66 AI Sessions, 360 AI Prompts
 
-Opus                     2,939 lines         █████████████████████████   100.00 % 
+Opus                     2,032 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,380 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,350 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -120,7 +120,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/opropriokratos/opropriokratos/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 07:11:22 UTC
+ Last Updated on 26/11/2026 07:00:26 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Projects
